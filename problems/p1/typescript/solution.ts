@@ -12,5 +12,5 @@ function main(n = 1000) {
   return sum;
 }
 
-const result = main();
-console.log({ result });
+const p1TsResult = main();
+console.log({ p1TsResult });
